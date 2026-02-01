@@ -1,0 +1,12 @@
+/Users/punnawut-bucha/Code/DevShift/Punnawut.IT081.Api/Punnawut.IT081.Api.Shared/bin/Debug/net8.0/Punnawut.IT081.Api.Shared.deps.json
+/Users/punnawut-bucha/Code/DevShift/Punnawut.IT081.Api/Punnawut.IT081.Api.Shared/bin/Debug/net8.0/Punnawut.IT081.Api.Shared.dll
+/Users/punnawut-bucha/Code/DevShift/Punnawut.IT081.Api/Punnawut.IT081.Api.Shared/bin/Debug/net8.0/Punnawut.IT081.Api.Shared.pdb
+/Users/punnawut-bucha/Code/DevShift/Punnawut.IT081.Api/Punnawut.IT081.Api.Shared/obj/Debug/net8.0/Punnawut.IT081.Api.Shared.csproj.AssemblyReference.cache
+/Users/punnawut-bucha/Code/DevShift/Punnawut.IT081.Api/Punnawut.IT081.Api.Shared/obj/Debug/net8.0/Punnawut.IT081.Api.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/punnawut-bucha/Code/DevShift/Punnawut.IT081.Api/Punnawut.IT081.Api.Shared/obj/Debug/net8.0/Punnawut.IT081.Api.Shared.AssemblyInfoInputs.cache
+/Users/punnawut-bucha/Code/DevShift/Punnawut.IT081.Api/Punnawut.IT081.Api.Shared/obj/Debug/net8.0/Punnawut.IT081.Api.Shared.AssemblyInfo.cs
+/Users/punnawut-bucha/Code/DevShift/Punnawut.IT081.Api/Punnawut.IT081.Api.Shared/obj/Debug/net8.0/Punnawut.IT081.Api.Shared.csproj.CoreCompileInputs.cache
+/Users/punnawut-bucha/Code/DevShift/Punnawut.IT081.Api/Punnawut.IT081.Api.Shared/obj/Debug/net8.0/Punnawut.IT081.Api.Shared.dll
+/Users/punnawut-bucha/Code/DevShift/Punnawut.IT081.Api/Punnawut.IT081.Api.Shared/obj/Debug/net8.0/refint/Punnawut.IT081.Api.Shared.dll
+/Users/punnawut-bucha/Code/DevShift/Punnawut.IT081.Api/Punnawut.IT081.Api.Shared/obj/Debug/net8.0/Punnawut.IT081.Api.Shared.pdb
+/Users/punnawut-bucha/Code/DevShift/Punnawut.IT081.Api/Punnawut.IT081.Api.Shared/obj/Debug/net8.0/ref/Punnawut.IT081.Api.Shared.dll

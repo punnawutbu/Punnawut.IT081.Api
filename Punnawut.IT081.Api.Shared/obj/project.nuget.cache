@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "vAviR6GfocU=",
+  "success": true,
+  "projectFilePath": "/Users/punnawut-bucha/Code/DevShift/Punnawut.IT081.Api/Punnawut.IT081.Api.Shared/Punnawut.IT081.Api.Shared.csproj",
+  "expectedPackageFiles": [
+    "/Users/punnawut-bucha/.nuget/packages/awssdk.core/4.0.3.12/awssdk.core.4.0.3.12.nupkg.sha512",
+    "/Users/punnawut-bucha/.nuget/packages/awssdk.s3/4.0.18.1/awssdk.s3.4.0.18.1.nupkg.sha512",
+    "/Users/punnawut-bucha/.nuget/packages/dapper/2.1.35/dapper.2.1.35.nupkg.sha512",
+    "/Users/punnawut-bucha/.nuget/packages/microsoft.extensions.configuration.abstractions/10.0.2/microsoft.extensions.configuration.abstractions.10.0.2.nupkg.sha512",
+    "/Users/punnawut-bucha/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/punnawut-bucha/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/punnawut-bucha/.nuget/packages/microsoft.extensions.primitives/10.0.2/microsoft.extensions.primitives.10.0.2.nupkg.sha512",
+    "/Users/punnawut-bucha/.nuget/packages/npgsql/8.0.5/npgsql.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
